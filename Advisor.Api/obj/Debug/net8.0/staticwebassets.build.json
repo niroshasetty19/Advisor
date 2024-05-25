@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DhvAVJymYBYHUMwnqg404MgOiA/fkuT57YwM3julz6A=",
+  "Source": "AdvisorApp.Api",
+  "BasePath": "_content/AdvisorApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

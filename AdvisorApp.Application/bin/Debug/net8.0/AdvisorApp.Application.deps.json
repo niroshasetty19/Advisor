@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdvisorApp.Application/1.0.0": {
+        "dependencies": {
+          "AdvisorApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AdvisorApp.Application.dll": {}
+        }
+      },
+      "AdvisorApp.Domain/1.0.0": {
+        "runtime": {
+          "AdvisorApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvisorApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdvisorApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

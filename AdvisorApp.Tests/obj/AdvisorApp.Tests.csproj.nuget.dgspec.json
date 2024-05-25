@@ -1,0 +1,306 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Tests\\AdvisorApp.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Application\\AdvisorApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Application\\AdvisorApp.Application.csproj",
+        "projectName": "AdvisorApp.Application",
+        "projectPath": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Application\\AdvisorApp.Application.csproj",
+        "packagesPath": "C:\\Users\\niros\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\niros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Domain\\AdvisorApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Domain\\AdvisorApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Domain\\AdvisorApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Domain\\AdvisorApp.Domain.csproj",
+        "projectName": "AdvisorApp.Domain",
+        "projectPath": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Domain\\AdvisorApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\niros\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\niros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Infrastructure\\AdvisorApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Infrastructure\\AdvisorApp.Infrastructure.csproj",
+        "projectName": "AdvisorApp.Infrastructure",
+        "projectPath": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Infrastructure\\AdvisorApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\niros\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\niros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Domain\\AdvisorApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Domain\\AdvisorApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Tests\\AdvisorApp.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Tests\\AdvisorApp.Tests.csproj",
+        "projectName": "AdvisorApp.Tests",
+        "projectPath": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Tests\\AdvisorApp.Tests.csproj",
+        "packagesPath": "C:\\Users\\niros\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\niros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Application\\AdvisorApp.Application.csproj": {
+                "projectPath": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Application\\AdvisorApp.Application.csproj"
+              },
+              "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Domain\\AdvisorApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Domain\\AdvisorApp.Domain.csproj"
+              },
+              "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Infrastructure\\AdvisorApp.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\niros\\Desktop\\APEXA\\Advisor\\Advisor\\AdvisorApp.Infrastructure\\AdvisorApp.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

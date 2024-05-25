@@ -1,0 +1,7 @@
+C:\Personal\Advisor\Advisor.Api\obj\Debug\net8.0\Advisor.Api.csproj.AssemblyReference.cache
+C:\Personal\Advisor\Advisor.Api\obj\Debug\net8.0\Advisor.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Advisor\Advisor.Api\obj\Debug\net8.0\Advisor.Api.AssemblyInfoInputs.cache
+C:\Personal\Advisor\Advisor.Api\obj\Debug\net8.0\Advisor.Api.AssemblyInfo.cs
+C:\Personal\Advisor\Advisor.Api\obj\Debug\net8.0\Advisor.Api.csproj.CoreCompileInputs.cache
+C:\Personal\Advisor\Advisor.Api\obj\Debug\net8.0\Advisor.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Personal\Advisor\Advisor.Api\obj\Debug\net8.0\Advisor.Api.MvcApplicationPartsAssemblyInfo.cache

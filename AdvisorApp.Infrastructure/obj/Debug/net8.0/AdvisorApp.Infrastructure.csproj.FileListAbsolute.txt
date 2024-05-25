@@ -1,0 +1,15 @@
+C:\Users\niros\Desktop\APEXA\Advisor\Advisor\AdvisorApp.Infrastructure\bin\Debug\net8.0\AdvisorApp.Infrastructure.deps.json
+C:\Users\niros\Desktop\APEXA\Advisor\Advisor\AdvisorApp.Infrastructure\bin\Debug\net8.0\AdvisorApp.Infrastructure.dll
+C:\Users\niros\Desktop\APEXA\Advisor\Advisor\AdvisorApp.Infrastructure\bin\Debug\net8.0\AdvisorApp.Infrastructure.pdb
+C:\Users\niros\Desktop\APEXA\Advisor\Advisor\AdvisorApp.Infrastructure\bin\Debug\net8.0\AdvisorApp.Domain.dll
+C:\Users\niros\Desktop\APEXA\Advisor\Advisor\AdvisorApp.Infrastructure\bin\Debug\net8.0\AdvisorApp.Domain.pdb
+C:\Users\niros\Desktop\APEXA\Advisor\Advisor\AdvisorApp.Infrastructure\obj\Debug\net8.0\AdvisorApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\niros\Desktop\APEXA\Advisor\Advisor\AdvisorApp.Infrastructure\obj\Debug\net8.0\AdvisorApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niros\Desktop\APEXA\Advisor\Advisor\AdvisorApp.Infrastructure\obj\Debug\net8.0\AdvisorApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\niros\Desktop\APEXA\Advisor\Advisor\AdvisorApp.Infrastructure\obj\Debug\net8.0\AdvisorApp.Infrastructure.AssemblyInfo.cs
+C:\Users\niros\Desktop\APEXA\Advisor\Advisor\AdvisorApp.Infrastructure\obj\Debug\net8.0\AdvisorApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\niros\Desktop\APEXA\Advisor\Advisor\AdvisorApp.Infrastructure\obj\Debug\net8.0\AdvisorA.4ECF491B.Up2Date
+C:\Users\niros\Desktop\APEXA\Advisor\Advisor\AdvisorApp.Infrastructure\obj\Debug\net8.0\AdvisorApp.Infrastructure.dll
+C:\Users\niros\Desktop\APEXA\Advisor\Advisor\AdvisorApp.Infrastructure\obj\Debug\net8.0\refint\AdvisorApp.Infrastructure.dll
+C:\Users\niros\Desktop\APEXA\Advisor\Advisor\AdvisorApp.Infrastructure\obj\Debug\net8.0\AdvisorApp.Infrastructure.pdb
+C:\Users\niros\Desktop\APEXA\Advisor\Advisor\AdvisorApp.Infrastructure\obj\Debug\net8.0\ref\AdvisorApp.Infrastructure.dll
